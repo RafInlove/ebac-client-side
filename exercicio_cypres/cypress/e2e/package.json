@@ -1,0 +1,11 @@
+{
+    "name": "agenda-contatos-cypress",
+    "version": "1.0.0",
+    "description": "Projeto de testes para a agenda de contatos",
+    "scripts": {
+        "test": "cypress open"
+    },
+    "devDependencies": {
+        "cypress": "^12.0.0"
+    }
+}
